@@ -31,13 +31,13 @@ I build scalable REST APIs, microservices and serverless architectures. Focused 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charly-Cr&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://streak-stats.demolab.com/?user=Charly-Cr&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charly-Cr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JCCRUCHACON&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://streak-stats.demolab.com/?user=JCCRUCHACON&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCRUCHACON&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charly-Cr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JCCRUCHACON&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
